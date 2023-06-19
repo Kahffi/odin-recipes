@@ -1,0 +1,23 @@
+*{
+	line-height: 1.5;
+	margin: 0px;
+	padding: 0px;
+	background-color: darkgray;
+}
+
+#lasagna {
+	width: 600px;
+	height: 360px;
+	border-radius: 3%;
+}
+
+.content{
+	text-align: center;
+	margin: 10px 20px 20px 10px;
+	padding: 28px;
+}
+
+.steps{
+	text-align: left;
+	padding-left: 20px;
+}
